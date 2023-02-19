@@ -1,6 +1,4 @@
 # Sampling
-Implements Sampling on a given datset
-# Sampling
 Sampling is the process of selecting a subset of data from a larger dataset.
 ##
 In this, we are applying five different sampling techniques on Credit card Fraud detection dataset.We will further analyze their accuracies and discuss the results.<br>
